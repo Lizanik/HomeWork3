@@ -11,7 +11,7 @@ public class task4 {
                 x--;
             }
             while (x > 0) {
-                System.out.print('*');
+                System.out.print("*");
                 x--;
             }
             System.out.println();
@@ -26,7 +26,7 @@ public class task4 {
                 x++;
             }
             while (x < lenght) {
-                System.out.print('*');
+                System.out.print("*");
                 x++;
             }
             System.out.println();
