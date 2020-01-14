@@ -6,7 +6,7 @@ public class task1 {
         while (i <=lenght) {
             int x = 0;
             while (x < i) {
-                System.out.print('*');
+                System.out.print("*");
                 x++;
             }
             System.out.println();
@@ -17,7 +17,7 @@ public class task1 {
         while (i <= lenght) {
             int x = lenght;
             while (i < x) {
-                System.out.print('*');
+                System.out.print("*");
                 x--;
             }
             System.out.println();
