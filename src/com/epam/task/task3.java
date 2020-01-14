@@ -6,11 +6,11 @@ public class task3 {
         while (i < lenght) {
             int x = lenght - 1;
             while (x > i) {
-                System.out.print(' ');
+                System.out.print(" ");
                 x--;
             }
             while (x >= 0) {
-                System.out.print('*');
+                System.out.print("*");
                 x--;
             }
             System.out.println();
